@@ -1,4 +1,4 @@
-# I am Retiring - KayBot
+# I am Retiring 😂
+
 My AI clone does it all!
-![Banner](baner.png)
 
