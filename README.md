@@ -15,6 +15,8 @@ This project started with a simple idea: why not automate everything that makes 
 
 So, if you're like me – a coding enthusiast who's all about making life more convenient (and maybe a little more amusing) – then Kay Bot is your new best friend. Clone the repo, change the settings to your liking, and let Kay Bot work its magic while you focus on what you do best: coding up a storm!
 
+I am not adding the CSV files here as this is a public platform.
+
 ## Features
 
 - Summarize news articles using OpenAI's GPT-3.
