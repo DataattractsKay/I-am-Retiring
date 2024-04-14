@@ -7,7 +7,7 @@ My AI clone does it all!
 
 Welcome to Kay Bot, your trusty buddy in the digital world! Ever wish you had an assistant who could handle your WhatsApp messages and emails while you focus on coding the next big thing? Well, look no further! Kay Bot is here to make your life ridiculously convenient and, dare I say, a tad more hilarious!
 
-It's like having a personal assistant who never complains (or asks for a raise)! 😂
+It's like having a personal assistant who never complains (Or asks for a raise)! 😂
 
 This project started with a simple idea: why not automate everything that makes my life easier? From summarizing news articles to crafting witty replies, Kay Bot does it all, thanks to the magic of OpenAI's GPT-3. And let's not forget the integration with WhatsApp and Gmail APIs.
 
